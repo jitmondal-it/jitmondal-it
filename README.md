@@ -97,7 +97,7 @@ I primarily work with **Java and Spring Boot**, and I'm interested in designing 
 <a href="https://leetcode.com/u/jit_mondal2411/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-jit__mondal2411-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/></a>&nbsp;&nbsp;
 <a href="https://j-m-portfolio-tau.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" alt="Portfolio"/></a>
 
-📫 **Email:** [jitmondal631@gmail.com] (mailto:jitmondal631@gmail.com)
+📫 **Email:** [jitmondal631@gmail.com](mailto:jitmondal631@gmail.com)
 
 ---
 
